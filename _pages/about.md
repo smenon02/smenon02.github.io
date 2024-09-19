@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-[Curriculum Vitae (CV)](https://ralobos.github.io/files/CV_RLOBOS_OCT_2023.pdf)
+[Resume](https://ralobos.github.io/files/Medical Devices Resume.pdf)
 
-I'm a postdoctoral researcher working under the guidance of Prof. Jeffrey Fessler, Prof. Douglas Noll, and Prof. Zhongming Liu at the University of Michigan. I completed my PhD studies at the University of Southern California working under the supervision of Prof. Justin Haldar.  My research interests include signal and image processing, magnetic resonance imaging (MRI), computational imaging, inverse problems, and the connections between machine learning and constrained image reconstruction.
+I am a Master's student at the University of Michigan studying Medical Product Engineering and Development, with a Bachelor's degree in Biomedical Engineering and minors in Computer Science and Multidisciplinary Design. Experiences include bioinformatics research, software development, manufacturing, and medical product development. I am deeply passionate about healthcare innovation and am looking for roles where I can utilize my skills to improve patient care.
