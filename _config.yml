@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rodrigo A. Lobos"
+title                    : "Suraj Menon"
 title_separator          : "-"
-name                     : &name "Rodrigo A. Lobos"
+name                     : &name "Suraj Menon"
 description              : &description "personal description"
-url                      : https://ralobos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://smenon02.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ralobos.github.io"
+repository               : "smenon02.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rodrigo A. Lobos"
-  avatar           : "pic_rl_scaled579.jpg"
-  bio              : "Postdoctoral Researcher at University of Michigan <b>rlobos@umich.edu </b>"
+  name             : "Suraj Menon"
+  avatar           : "primary_headshot.pjpg"
+  bio              : "Master's Student in Medical Product Engineering and Development at the Unviersity of Michigan <b>srmenon@umich.edu </b>"
   location         : "Ann Arbor, MI"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=J7WSE60AAAAJ&hl=en&oi=ao"
-  email            : #"rlobos@usc.edu"
+  googlescholar    :
+  email            : #"srmenon@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
