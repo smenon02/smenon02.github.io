@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: true
 ---  
 {% include base_path %}
+* <b>Research Assistant at the University of Michigan Systems Biology Lab<br>
 
 <b>Preprints</b>
 ======
